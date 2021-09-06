@@ -1,0 +1,1 @@
+Text entered in file2.txtgit addcd ..
